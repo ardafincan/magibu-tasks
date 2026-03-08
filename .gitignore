@@ -1,0 +1,16 @@
+# Sanal ortam (En önemlisi, GitHub'a asla gitmemeli)
+venv/
+.venv/
+
+# Python'ın çalışma dosyaları
+__pycache__/
+*.py[cod]
+
+# Senin gizli token'ın (Güvenlik için)
+.env
+
+# Mac'in her klasöre bıraktığı meşhur dosya
+.DS_Store
+
+# VS Code ayarları (İsteğe bağlı)
+.vscode/

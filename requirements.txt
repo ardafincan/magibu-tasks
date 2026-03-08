@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+sentence-transformers
+huggingface-hub
+pydantic
+python-dotenv
